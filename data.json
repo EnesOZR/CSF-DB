@@ -1,6 +1,6 @@
 {
   "hash": "b35130f43502251667eed6a2f9fe1e99",
-  "timestamp": "2025-04-05T18:03:56.610400",
+  "timestamp": "2025-04-05T18:03:59.466405",
   "items": [
     {
       "id": "828609341090302730",
@@ -1276,7 +1276,7 @@
         "away": false,
         "flags": 48,
         "has_valid_steam_api_key": true,
-        "online": true,
+        "online": false,
         "stall_public": true,
         "statistics": {
           "median_trade_time": 561,
