@@ -1,6 +1,6 @@
 {
-  "hash": "c5a579c73759a24bcccef32bb4536b14",
-  "timestamp": "2025-04-05T17:53:57.446762",
+  "hash": "b35130f43502251667eed6a2f9fe1e99",
+  "timestamp": "2025-04-05T18:03:53.764235",
   "items": [
     {
       "id": "828609341090302730",
@@ -101,57 +101,6 @@
       "watchers": 0
     },
     {
-      "id": "828583919975793410",
-      "created_at": "2025-04-05T10:56:40.867865Z",
-      "type": "buy_now",
-      "price": 2600,
-      "state": "listed",
-      "seller": {
-        "avatar": "https://avatars.steamstatic.com/ec50602a035e21299f1dbc8481df062b29f43a88_full.jpg",
-        "away": false,
-        "flags": 48,
-        "has_valid_steam_api_key": false,
-        "online": false,
-        "stall_public": true,
-        "statistics": {
-          "median_trade_time": 339,
-          "total_avoided_trades": 0,
-          "total_failed_trades": 0,
-          "total_trades": 144,
-          "total_verified_trades": 144
-        },
-        "steam_id": "76561198076761542",
-        "username": "leandoer"
-      },
-      "reference": {
-        "base_price": 398,
-        "predicted_price": 398,
-        "quantity": 2629,
-        "last_updated": "2025-04-05T10:55:31.625383Z"
-      },
-      "item": {
-        "asset_id": "42911183060",
-        "def_index": 1355,
-        "keychain_index": 18,
-        "keychain_pattern": 1351,
-        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
-        "rarity": 4,
-        "market_hash_name": "Charm | Die-cast AK",
-        "tradable": 0,
-        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198076761542A42911183060D2333992636268024409",
-        "is_commodity": true,
-        "type": "charm",
-        "rarity_name": "Remarkable",
-        "type_name": "Charm",
-        "item_name": "Die-cast AK",
-        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250C70A0A649390",
-        "gs_sig": "be81a6fd73a029725edc"
-      },
-      "is_seller": false,
-      "is_watchlisted": false,
-      "watchers": 1
-    },
-    {
       "id": "828569594087214596",
       "created_at": "2025-04-05T09:59:45.309353Z",
       "type": "buy_now",
@@ -162,7 +111,7 @@
         "flags": 48,
         "has_valid_steam_api_key": true,
         "obfuscated_id": "10167167747195467504",
-        "online": false,
+        "online": true,
         "stall_public": false,
         "statistics": {
           "median_trade_time": 118,
@@ -211,7 +160,7 @@
         "flags": 48,
         "has_valid_steam_api_key": true,
         "obfuscated_id": "10167167747195467504",
-        "online": false,
+        "online": true,
         "stall_public": false,
         "statistics": {
           "median_trade_time": 118,
@@ -260,7 +209,7 @@
         "flags": 48,
         "has_valid_steam_api_key": true,
         "obfuscated_id": "10167167747195467504",
-        "online": false,
+        "online": true,
         "stall_public": false,
         "statistics": {
           "median_trade_time": 118,
@@ -411,7 +360,7 @@
         "away": false,
         "flags": 48,
         "has_valid_steam_api_key": false,
-        "online": false,
+        "online": true,
         "stall_public": true,
         "statistics": {
           "median_trade_time": 1810,
@@ -986,7 +935,7 @@
         "base_price": 398,
         "predicted_price": 398,
         "quantity": 2629,
-        "last_updated": "2025-04-05T08:55:30.479097Z"
+        "last_updated": "2025-04-05T14:55:34.900936Z"
       },
       "item": {
         "asset_id": "42402823748",
@@ -1037,7 +986,7 @@
         "base_price": 398,
         "predicted_price": 398,
         "quantity": 2629,
-        "last_updated": "2025-04-05T08:55:30.680895Z"
+        "last_updated": "2025-04-05T14:55:34.93309Z"
       },
       "item": {
         "asset_id": "42770353317",
@@ -1180,8 +1129,8 @@
           "median_trade_time": 108,
           "total_avoided_trades": 1,
           "total_failed_trades": 2,
-          "total_trades": 829,
-          "total_verified_trades": 827
+          "total_trades": 830,
+          "total_verified_trades": 828
         }
       },
       "reference": {
@@ -1229,8 +1178,8 @@
           "median_trade_time": 51,
           "total_avoided_trades": 0,
           "total_failed_trades": 4,
-          "total_trades": 1670,
-          "total_verified_trades": 1666
+          "total_trades": 1671,
+          "total_verified_trades": 1667
         },
         "steam_id": "76561199213516886",
         "username": "swablue"
@@ -1327,7 +1276,7 @@
         "away": false,
         "flags": 48,
         "has_valid_steam_api_key": true,
-        "online": false,
+        "online": true,
         "stall_public": true,
         "statistics": {
           "median_trade_time": 561,
@@ -1343,7 +1292,7 @@
         "base_price": 398,
         "predicted_price": 398,
         "quantity": 2629,
-        "last_updated": "2025-04-05T09:02:50.342851Z"
+        "last_updated": "2025-04-05T15:02:58.086188Z"
       },
       "item": {
         "asset_id": "43039512193",
@@ -1729,7 +1678,7 @@
         "flags": 48,
         "has_valid_steam_api_key": true,
         "obfuscated_id": "10167167747195467504",
-        "online": false,
+        "online": true,
         "stall_public": false,
         "statistics": {
           "median_trade_time": 118,
@@ -2236,7 +2185,7 @@
         "away": false,
         "flags": 48,
         "has_valid_steam_api_key": true,
-        "online": true,
+        "online": false,
         "stall_public": true,
         "statistics": {
           "median_trade_time": 213,
@@ -2287,7 +2236,7 @@
         "away": false,
         "flags": 48,
         "has_valid_steam_api_key": true,
-        "online": true,
+        "online": false,
         "stall_public": true,
         "statistics": {
           "median_trade_time": 213,
@@ -2338,7 +2287,7 @@
         "away": false,
         "flags": 48,
         "has_valid_steam_api_key": true,
-        "online": true,
+        "online": false,
         "stall_public": true,
         "statistics": {
           "median_trade_time": 213,
@@ -2389,7 +2338,7 @@
         "away": false,
         "flags": 48,
         "has_valid_steam_api_key": true,
-        "online": true,
+        "online": false,
         "stall_public": true,
         "statistics": {
           "median_trade_time": 213,
@@ -2440,7 +2389,7 @@
         "away": false,
         "flags": 48,
         "has_valid_steam_api_key": true,
-        "online": true,
+        "online": false,
         "stall_public": true,
         "statistics": {
           "median_trade_time": 213,
@@ -2491,7 +2440,7 @@
         "away": false,
         "flags": 48,
         "has_valid_steam_api_key": true,
-        "online": true,
+        "online": false,
         "stall_public": true,
         "statistics": {
           "median_trade_time": 213,
@@ -2526,6 +2475,57 @@
         "item_name": "Die-cast AK",
         "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250B54E7B368160",
         "gs_sig": "0444cfe9f82cf7c928d0"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828172394534405452",
+      "created_at": "2025-04-04T07:41:25.556122Z",
+      "type": "buy_now",
+      "price": 1390,
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/8df051aa1e3ee396944b59039a2764f6c41bffbf_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": true,
+        "online": false,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 213,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 2,
+          "total_trades": 1547,
+          "total_verified_trades": 1545
+        },
+        "steam_id": "76561199128212001",
+        "username": "Bad News Eagles"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T13:40:11.854496Z"
+      },
+      "item": {
+        "asset_id": "42844126157",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 16473,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561199128212001A42844126157D10154011767536153141",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201080800101250D9800142439C71",
+        "gs_sig": "3dcedf3d480dff5c99d2"
       },
       "is_seller": false,
       "is_watchlisted": false,
