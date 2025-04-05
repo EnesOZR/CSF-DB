@@ -1,6 +1,6 @@
 {
   "hash": "c5a579c73759a24bcccef32bb4536b14",
-  "timestamp": "2025-04-05T17:53:13.588258",
+  "timestamp": "2025-04-05T17:53:57.446762",
   "items": [
     {
       "id": "828609341090302730",
@@ -411,7 +411,7 @@
         "away": false,
         "flags": 48,
         "has_valid_steam_api_key": false,
-        "online": true,
+        "online": false,
         "stall_public": true,
         "statistics": {
           "median_trade_time": 1810,
@@ -1380,7 +1380,7 @@
         "flags": 48,
         "has_valid_steam_api_key": false,
         "obfuscated_id": "6338306257547478110",
-        "online": false,
+        "online": true,
         "stall_public": false,
         "statistics": {
           "median_trade_time": 50,
@@ -2236,7 +2236,7 @@
         "away": false,
         "flags": 48,
         "has_valid_steam_api_key": true,
-        "online": false,
+        "online": true,
         "stall_public": true,
         "statistics": {
           "median_trade_time": 213,
@@ -2287,7 +2287,7 @@
         "away": false,
         "flags": 48,
         "has_valid_steam_api_key": true,
-        "online": false,
+        "online": true,
         "stall_public": true,
         "statistics": {
           "median_trade_time": 213,
@@ -2338,7 +2338,7 @@
         "away": false,
         "flags": 48,
         "has_valid_steam_api_key": true,
-        "online": false,
+        "online": true,
         "stall_public": true,
         "statistics": {
           "median_trade_time": 213,
@@ -2389,7 +2389,7 @@
         "away": false,
         "flags": 48,
         "has_valid_steam_api_key": true,
-        "online": false,
+        "online": true,
         "stall_public": true,
         "statistics": {
           "median_trade_time": 213,
@@ -2440,7 +2440,7 @@
         "away": false,
         "flags": 48,
         "has_valid_steam_api_key": true,
-        "online": false,
+        "online": true,
         "stall_public": true,
         "statistics": {
           "median_trade_time": 213,
@@ -2491,7 +2491,7 @@
         "away": false,
         "flags": 48,
         "has_valid_steam_api_key": true,
-        "online": false,
+        "online": true,
         "stall_public": true,
         "statistics": {
           "median_trade_time": 213,
