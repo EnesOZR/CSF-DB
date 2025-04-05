@@ -1,6 +1,6 @@
 {
   "hash": "b35130f43502251667eed6a2f9fe1e99",
-  "timestamp": "2025-04-05T18:04:56.013675",
+  "timestamp": "2025-04-05T18:04:58.884848",
   "items": [
     {
       "id": "828609341090302730",
@@ -2030,7 +2030,7 @@
         "away": false,
         "flags": 48,
         "has_valid_steam_api_key": false,
-        "online": true,
+        "online": false,
         "stall_public": true,
         "statistics": {
           "median_trade_time": 93,
@@ -2082,7 +2082,7 @@
         "away": false,
         "flags": 48,
         "has_valid_steam_api_key": false,
-        "online": true,
+        "online": false,
         "stall_public": true,
         "statistics": {
           "median_trade_time": 93,
@@ -2134,7 +2134,7 @@
         "away": false,
         "flags": 48,
         "has_valid_steam_api_key": false,
-        "online": true,
+        "online": false,
         "stall_public": true,
         "statistics": {
           "median_trade_time": 93,
