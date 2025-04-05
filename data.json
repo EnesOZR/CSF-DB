@@ -1,1 +1,2535 @@
-
+{
+  "hash": "002882efbd27be3055cede3a5bcf5d47",
+  "timestamp": "2025-04-05T17:37:23.346236",
+  "items": [
+    {
+      "id": "828609341090302730",
+      "created_at": "2025-04-05T12:37:41.733654Z",
+      "type": "buy_now",
+      "price": 1480,
+      "state": "listed",
+      "seller": {
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": true,
+        "obfuscated_id": "2921225622275819633",
+        "online": false,
+        "stall_public": false,
+        "statistics": {
+          "median_trade_time": 1141,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 20,
+          "total_trades": 6714,
+          "total_verified_trades": 6694
+        }
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T12:31:23.324457Z"
+      },
+      "item": {
+        "asset_id": "42881036240",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 3895,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250B71E5158CAC0",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250B71E5158CAC0",
+        "gs_sig": "1e7fbf2132dbffaaa7e5"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828587497478032263",
+      "created_at": "2025-04-05T11:10:53.810935Z",
+      "type": "buy_now",
+      "price": 1156,
+      "state": "listed",
+      "seller": {
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "obfuscated_id": "9121955906818227783",
+        "online": false,
+        "stall_public": false,
+        "statistics": {
+          "median_trade_time": 1298,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 0,
+          "total_trades": 29,
+          "total_verified_trades": 29
+        }
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T11:10:37.039261Z"
+      },
+      "item": {
+        "asset_id": "42630372874",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 17772,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201080800101250EC8A014D9B8D12",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201080800101250EC8A014D9B8D12",
+        "gs_sig": "bde653a4fd66f589f20a"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828583919975793410",
+      "created_at": "2025-04-05T10:56:40.867865Z",
+      "type": "buy_now",
+      "price": 2600,
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/ec50602a035e21299f1dbc8481df062b29f43a88_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "online": false,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 339,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 0,
+          "total_trades": 144,
+          "total_verified_trades": 144
+        },
+        "steam_id": "76561198076761542",
+        "username": "leandoer"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T10:55:31.625383Z"
+      },
+      "item": {
+        "asset_id": "42911183060",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 1351,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198076761542A42911183060D2333992636268024409",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250C70A0A649390",
+        "gs_sig": "be81a6fd73a029725edc"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 1
+    },
+    {
+      "id": "828569594087214596",
+      "created_at": "2025-04-05T09:59:45.309353Z",
+      "type": "buy_now",
+      "price": 2300,
+      "state": "listed",
+      "seller": {
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": true,
+        "obfuscated_id": "10167167747195467504",
+        "online": true,
+        "stall_public": false,
+        "statistics": {
+          "median_trade_time": 118,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 2,
+          "total_trades": 1419,
+          "total_verified_trades": 1417
+        }
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T09:59:12.264025Z"
+      },
+      "item": {
+        "asset_id": "42882672070",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 1794,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250820EE9EE6D60",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250820EE9EE6D60",
+        "gs_sig": "38e199aa7c6617763d4b"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828569593009278457",
+      "created_at": "2025-04-05T09:59:45.052383Z",
+      "type": "buy_now",
+      "price": 2300,
+      "state": "listed",
+      "seller": {
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": true,
+        "obfuscated_id": "10167167747195467504",
+        "online": true,
+        "stall_public": false,
+        "statistics": {
+          "median_trade_time": 118,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 2,
+          "total_trades": 1419,
+          "total_verified_trades": 1417
+        }
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T09:59:12.264026Z"
+      },
+      "item": {
+        "asset_id": "42882621223",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 1857,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250C10EE7D9B980",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250C10EE7D9B980",
+        "gs_sig": "89395f0132a5893db31f"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828569591704849899",
+      "created_at": "2025-04-05T09:59:44.741177Z",
+      "type": "buy_now",
+      "price": 2300,
+      "state": "listed",
+      "seller": {
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": true,
+        "obfuscated_id": "10167167747195467504",
+        "online": true,
+        "stall_public": false,
+        "statistics": {
+          "median_trade_time": 118,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 2,
+          "total_trades": 1419,
+          "total_verified_trades": 1417
+        }
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T09:59:12.264028Z"
+      },
+      "item": {
+        "asset_id": "42868523720",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 1561,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250990C21813080",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250990C21813080",
+        "gs_sig": "2b3292b099917b8d904f"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828564583047366713",
+      "created_at": "2025-04-05T09:39:50.584824Z",
+      "type": "buy_now",
+      "price": 1783,
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/d7e53e0d6d91412a903343eb8f5d3bae5a708cc6_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "online": false,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 105,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 74,
+          "total_trades": 8039,
+          "total_verified_trades": 7965
+        },
+        "steam_id": "76561198807900412",
+        "username": "285206075"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T09:39:28.419348Z"
+      },
+      "item": {
+        "asset_id": "42881965035",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 2483,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198807900412A42881965035D14422935602165357233",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250B313A1AE3250",
+        "gs_sig": "fc3a21cb9122d43cf46d"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828564564965722155",
+      "created_at": "2025-04-05T09:39:46.273111Z",
+      "type": "buy_now",
+      "price": 1782,
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/d7e53e0d6d91412a903343eb8f5d3bae5a708cc6_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "online": false,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 105,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 74,
+          "total_trades": 8039,
+          "total_verified_trades": 7965
+        },
+        "steam_id": "76561198807900412",
+        "username": "285206075"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T09:39:28.419347Z"
+      },
+      "item": {
+        "asset_id": "42885350283",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 2437,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198807900412A42885350283D11675244791035605113",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A20107080010125085138A095D00",
+        "gs_sig": "a2d67f6b7f142a9b2fe5"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828544945991322336",
+      "created_at": "2025-04-05T08:21:48.745982Z",
+      "type": "buy_now",
+      "price": 2000,
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/ef6e32252b46c954ced0ba3b91d26b974715934b_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "online": true,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 1810,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 2,
+          "total_trades": 52,
+          "total_verified_trades": 50
+        },
+        "steam_id": "76561199483500724",
+        "username": "Pupa Lupa"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T14:20:25.85206Z"
+      },
+      "item": {
+        "asset_id": "42749992013",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 7653,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561199483500724A42749992013D9387205502490128433",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250E53B553530D0",
+        "gs_sig": "494dd54712dcf24e334b"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828543598353058384",
+      "created_at": "2025-04-05T08:16:27.443267Z",
+      "type": "buy_now",
+      "price": 1500,
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/862433211dc6205dfde470c14d2eb07a261f07c9_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "online": false,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 3335,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 0,
+          "total_trades": 69,
+          "total_verified_trades": 69
+        },
+        "steam_id": "76561198819779034",
+        "username": "MorrO"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T14:16:33.845959Z"
+      },
+      "item": {
+        "asset_id": "42877099469",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 4905,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198819779034A42877099469D16594226983669215409",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250A926E95CC270",
+        "gs_sig": "3d36e9090232b7e9d1af"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828503747272508805",
+      "created_at": "2025-04-05T05:38:06.205709Z",
+      "type": "buy_now",
+      "price": 1050,
+      "state": "listed",
+      "seller": {
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "obfuscated_id": "1271677663747906211",
+        "online": false,
+        "stall_public": false,
+        "statistics": {
+          "median_trade_time": 125,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 0,
+          "total_trades": 18,
+          "total_verified_trades": 18
+        }
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T11:36:50.608802Z"
+      },
+      "item": {
+        "asset_id": "43058254550",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 5781,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250952DCF98FDE0",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250952DCF98FDE0",
+        "gs_sig": "7ddfb13b64fc5a03d88f"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 1
+    },
+    {
+      "id": "828474665193310639",
+      "created_at": "2025-04-05T03:42:32.497532Z",
+      "type": "buy_now",
+      "price": 1100,
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/862433211dc6205dfde470c14d2eb07a261f07c9_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "online": false,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 3335,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 0,
+          "total_trades": 69,
+          "total_verified_trades": 69
+        },
+        "steam_id": "76561198819779034",
+        "username": "MorrO"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T09:42:21.023323Z"
+      },
+      "item": {
+        "asset_id": "42611790104",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 7410,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198819779034A42611790104D5486159560416965809",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250F239F99CBC90",
+        "gs_sig": "2c9c3c8584184aeabf01"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828474664140540334",
+      "created_at": "2025-04-05T03:42:32.246368Z",
+      "type": "buy_now",
+      "price": 1100,
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/862433211dc6205dfde470c14d2eb07a261f07c9_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "online": false,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 3335,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 0,
+          "total_trades": 69,
+          "total_verified_trades": 69
+        },
+        "steam_id": "76561198819779034",
+        "username": "MorrO"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T09:42:21.025357Z"
+      },
+      "item": {
+        "asset_id": "42735014268",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 6923,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198819779034A42735014268D7559939874775406809",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A2010708001012508B36AFAE7AB0",
+        "gs_sig": "cb0e02771025c302e308"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828474661879810476",
+      "created_at": "2025-04-05T03:42:31.707449Z",
+      "type": "buy_now",
+      "price": 1224,
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/862433211dc6205dfde470c14d2eb07a261f07c9_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "online": false,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 3335,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 0,
+          "total_trades": 69,
+          "total_verified_trades": 69
+        },
+        "steam_id": "76561198819779034",
+        "username": "MorrO"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T09:42:21.032803Z"
+      },
+      "item": {
+        "asset_id": "42787339402",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 6510,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198819779034A42787339402D13864341947262614773",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250EE3271DF7AE0",
+        "gs_sig": "2ef2ebe4a1f484ee62f1"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828474660541827499",
+      "created_at": "2025-04-05T03:42:31.388477Z",
+      "type": "buy_now",
+      "price": 1100,
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/862433211dc6205dfde470c14d2eb07a261f07c9_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "online": false,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 3335,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 0,
+          "total_trades": 69,
+          "total_verified_trades": 69
+        },
+        "steam_id": "76561198819779034",
+        "username": "MorrO"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T09:42:21.035133Z"
+      },
+      "item": {
+        "asset_id": "42821157435",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 7659,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198819779034A42821157435D12278537903877059637",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250EB3B33A12830",
+        "gs_sig": "140cb194d4edb2eba65f"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828428783441807103",
+      "created_at": "2025-04-05T00:40:13.435389Z",
+      "type": "buy_now",
+      "price": 1000,
+      "state": "listed",
+      "seller": {
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "obfuscated_id": "14217200498036677679",
+        "online": false,
+        "stall_public": false,
+        "statistics": {
+          "median_trade_time": 66,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 1,
+          "total_trades": 57,
+          "total_verified_trades": 56
+        }
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T12:40:11.704107Z"
+      },
+      "item": {
+        "asset_id": "43026515848",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 6776,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250F83437D71800",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250F83437D71800",
+        "gs_sig": "aa897f4a731c425dc1e4"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828391120705817774",
+      "created_at": "2025-04-04T22:10:33.939105Z",
+      "type": "buy_now",
+      "price": 3900,
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/0e96fd1da4c91017a7c1de980d6361b139e6831d_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "online": false,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 986,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 1,
+          "total_trades": 483,
+          "total_verified_trades": 482
+        },
+        "steam_id": "76561199016842587",
+        "username": "slipe"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T10:08:41.578251Z"
+      },
+      "item": {
+        "asset_id": "42825621365",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 534,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561199016842587A42825621365D16450749546559969017",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A20107080010125096040CC88050",
+        "gs_sig": "2a4bfc5442dd5e530775"
+      },
+      "is_seller": false,
+      "min_offer_price": 3588,
+      "max_offer_discount": 800,
+      "is_watchlisted": false,
+      "watchers": 1
+    },
+    {
+      "id": "828390290715971480",
+      "created_at": "2025-04-04T22:07:16.054429Z",
+      "type": "buy_now",
+      "price": 1800,
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/0e96fd1da4c91017a7c1de980d6361b139e6831d_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "online": false,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 986,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 1,
+          "total_trades": 483,
+          "total_verified_trades": 482
+        },
+        "steam_id": "76561199016842587",
+        "username": "slipe"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T10:07:43.360722Z"
+      },
+      "item": {
+        "asset_id": "42823854130",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 2565,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561199016842587A42823854130D183745485581114013",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A20107080010125085147E2660D0",
+        "gs_sig": "63c90f254e7871ed691f"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828380587134943553",
+      "created_at": "2025-04-04T21:28:42.540662Z",
+      "type": "buy_now",
+      "price": 2564,
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/b5f4b00c1575f5b2ee5b2b0778f4de2731b53dc5_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "online": false,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 79,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 1,
+          "total_trades": 105,
+          "total_verified_trades": 104
+        },
+        "steam_id": "76561199502459680",
+        "username": "z1you"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T09:28:57.131192Z"
+      },
+      "item": {
+        "asset_id": "42727350100",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 1150,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561199502459680A42727350100D5496715019202647125",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250FE08323C5810",
+        "gs_sig": "d045e4d6e20c1b467ec1"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 1
+    },
+    {
+      "id": "828372951412901042",
+      "created_at": "2025-04-04T20:58:22.042478Z",
+      "type": "buy_now",
+      "price": 2860,
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/6be2f7037ea1923def17c156e75bf040fe339fa5_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "online": false,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 361,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 0,
+          "total_trades": 173,
+          "total_verified_trades": 173
+        },
+        "steam_id": "76561199807407304",
+        "username": "Fides 🍃"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T08:55:30.479097Z"
+      },
+      "item": {
+        "asset_id": "42402823748",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 1886,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561199807407304A42402823748D748907124694635537",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250DE0E5F434160",
+        "gs_sig": "e7e7fa8a2eae976570aa"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828372502924365010",
+      "created_at": "2025-04-04T20:56:35.114421Z",
+      "type": "buy_now",
+      "price": 1300,
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/6be2f7037ea1923def17c156e75bf040fe339fa5_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "online": false,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 361,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 0,
+          "total_trades": 173,
+          "total_verified_trades": 173
+        },
+        "steam_id": "76561199807407304",
+        "username": "Fides 🍃"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T08:55:30.680895Z"
+      },
+      "item": {
+        "asset_id": "42770353317",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 5766,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561199807407304A42770353317D9511606155188172501",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250862D8F806780",
+        "gs_sig": "b416ea8bf1d4c7410467"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828368621788072303",
+      "created_at": "2025-04-04T20:41:09.780047Z",
+      "type": "buy_now",
+      "price": 2000,
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/afa9f56a8762eb63583525805c55273c48841290_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "online": false,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 143,
+          "total_avoided_trades": 1,
+          "total_failed_trades": 4,
+          "total_trades": 250,
+          "total_verified_trades": 246
+        },
+        "steam_id": "76561198843799104",
+        "username": "I'm disappointed"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T08:41:10.095445Z"
+      },
+      "item": {
+        "asset_id": "43051511617",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 19664,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198843799104A43051511617D9370912666054612569",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201080800101250D099011D990458",
+        "gs_sig": "e9c4af89a0aee05e42a5"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828346532628663012",
+      "created_at": "2025-04-04T19:13:23.313399Z",
+      "type": "buy_now",
+      "price": 1000,
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/1e3d7dffee84da6a7859e27412daef7ea6ef42ad_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "online": false,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 74,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 2,
+          "total_trades": 401,
+          "total_verified_trades": 399
+        },
+        "steam_id": "76561198070998117",
+        "username": "DrPuddles"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T13:11:31.243534Z"
+      },
+      "item": {
+        "asset_id": "42484556700",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 15024,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198070998117A42484556700D7101694388692719733",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250B0756E6979B0",
+        "gs_sig": "5157182f5030ce8b266b"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828334533156929837",
+      "created_at": "2025-04-04T18:25:42.41644Z",
+      "type": "buy_now",
+      "price": 1097,
+      "state": "listed",
+      "seller": {
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "obfuscated_id": "5852956635110780492",
+        "online": true,
+        "stall_public": false,
+        "statistics": {
+          "median_trade_time": 108,
+          "total_avoided_trades": 1,
+          "total_failed_trades": 2,
+          "total_trades": 829,
+          "total_verified_trades": 827
+        }
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T12:26:03.247805Z"
+      },
+      "item": {
+        "asset_id": "42659803371",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 19701,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201080800101250F5990148FC39F5",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201080800101250F5990148FC39F5",
+        "gs_sig": "7955e28b2faf413549cb"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828332196875075697",
+      "created_at": "2025-04-04T18:16:25.403087Z",
+      "type": "buy_now",
+      "price": 3500,
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/093095eeec54a4ce121fa1f5bee5aeb94b8add49_full.jpg",
+        "away": false,
+        "flags": 560,
+        "has_valid_steam_api_key": true,
+        "online": true,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 51,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 4,
+          "total_trades": 1670,
+          "total_verified_trades": 1666
+        },
+        "steam_id": "76561199213516886",
+        "username": "swablue"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T12:14:46.741699Z"
+      },
+      "item": {
+        "asset_id": "40181275116",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 4745,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561199213516886A40181275116D11836668515818854481",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A20107080010125089259CA895D0",
+        "gs_sig": "85d50000f8ba12df8e9d"
+      },
+      "is_seller": false,
+      "min_offer_price": 2450,
+      "max_offer_discount": 3000,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828288140375622651",
+      "created_at": "2025-04-04T15:21:21.515729Z",
+      "type": "buy_now",
+      "price": 3296,
+      "state": "listed",
+      "seller": {
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "obfuscated_id": "11369514669567129060",
+        "online": false,
+        "stall_public": false,
+        "statistics": {
+          "median_trade_time": 154,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 0,
+          "total_trades": 1,
+          "total_verified_trades": 1
+        }
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T09:21:37.019932Z"
+      },
+      "item": {
+        "asset_id": "42757409137",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 849,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250D1066C590F70",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250D1066C590F70",
+        "gs_sig": "6387e34eb0b8b00fc8a2"
+      },
+      "is_seller": false,
+      "min_offer_price": 3033,
+      "max_offer_discount": 800,
+      "is_watchlisted": false,
+      "watchers": 3
+    },
+    {
+      "id": "828283375461731165",
+      "created_at": "2025-04-04T15:02:25.471517Z",
+      "type": "buy_now",
+      "price": 3300,
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/cd9dc4d7c22609d659a327e382b43c725af82811_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": true,
+        "online": true,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 561,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 0,
+          "total_trades": 65,
+          "total_verified_trades": 65
+        },
+        "steam_id": "76561198219267733",
+        "username": "blasti"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T09:02:50.342851Z"
+      },
+      "item": {
+        "asset_id": "43039512193",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 1659,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198219267733A43039512193D12405206609517673593",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250FB0C07DAA670",
+        "gs_sig": "5260e1269804eded8c87"
+      },
+      "is_seller": false,
+      "min_offer_price": 3201,
+      "max_offer_discount": 300,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828252813636272296",
+      "created_at": "2025-04-04T13:00:58.964273Z",
+      "type": "buy_now",
+      "price": 2694,
+      "state": "listed",
+      "seller": {
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "obfuscated_id": "6338306257547478110",
+        "online": false,
+        "stall_public": false,
+        "statistics": {
+          "median_trade_time": 50,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 0,
+          "total_trades": 21,
+          "total_verified_trades": 21
+        }
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T13:01:37.590186Z"
+      },
+      "item": {
+        "asset_id": "42925274877",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 722,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250D2059CBD2920",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250D2059CBD2920",
+        "gs_sig": "82ab2d17e2180dfb550a"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 3
+    },
+    {
+      "id": "828251134773825068",
+      "created_at": "2025-04-04T12:54:18.692406Z",
+      "type": "buy_now",
+      "price": 4046,
+      "state": "listed",
+      "seller": {
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": true,
+        "obfuscated_id": "2921225622275819633",
+        "online": false,
+        "stall_public": false,
+        "statistics": {
+          "median_trade_time": 1141,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 20,
+          "total_trades": 6714,
+          "total_verified_trades": 6694
+        }
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T12:54:52.42285Z"
+      },
+      "item": {
+        "asset_id": "42854469698",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 766,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250FE0540A575C0",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250FE0540A575C0",
+        "gs_sig": "c00b9569328c22f3cc99"
+      },
+      "is_seller": false,
+      "min_offer_price": 3723,
+      "max_offer_discount": 800,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828251132701838783",
+      "created_at": "2025-04-04T12:54:18.198128Z",
+      "type": "buy_now",
+      "price": 4046,
+      "state": "listed",
+      "seller": {
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": true,
+        "obfuscated_id": "2921225622275819633",
+        "online": false,
+        "stall_public": false,
+        "statistics": {
+          "median_trade_time": 1141,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 20,
+          "total_trades": 6714,
+          "total_verified_trades": 6694
+        }
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T12:54:52.428222Z"
+      },
+      "item": {
+        "asset_id": "42864286794",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 516,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A2010708001012508404C7B7BEE0",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A2010708001012508404C7B7BEE0",
+        "gs_sig": "41005c0bf27b820814f2"
+      },
+      "is_seller": false,
+      "min_offer_price": 3723,
+      "max_offer_discount": 800,
+      "is_watchlisted": false,
+      "watchers": 3
+    },
+    {
+      "id": "828251131053477308",
+      "created_at": "2025-04-04T12:54:17.805253Z",
+      "type": "buy_now",
+      "price": 4046,
+      "state": "listed",
+      "seller": {
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": true,
+        "obfuscated_id": "2921225622275819633",
+        "online": false,
+        "stall_public": false,
+        "statistics": {
+          "median_trade_time": 1141,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 20,
+          "total_trades": 6714,
+          "total_verified_trades": 6694
+        }
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T12:54:52.430921Z"
+      },
+      "item": {
+        "asset_id": "42853841796",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 542,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A2010708001012509E045AB960D0",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A2010708001012509E045AB960D0",
+        "gs_sig": "5bf3c73774e887a2885c"
+      },
+      "is_seller": false,
+      "min_offer_price": 3723,
+      "max_offer_discount": 800,
+      "is_watchlisted": false,
+      "watchers": 3
+    },
+    {
+      "id": "828250742505735866",
+      "created_at": "2025-04-04T12:52:45.168736Z",
+      "type": "buy_now",
+      "price": 1673,
+      "state": "listed",
+      "seller": {
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": true,
+        "obfuscated_id": "2921225622275819633",
+        "online": false,
+        "stall_public": false,
+        "statistics": {
+          "median_trade_time": 1141,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 20,
+          "total_trades": 6714,
+          "total_verified_trades": 6694
+        }
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T12:53:35.598964Z"
+      },
+      "item": {
+        "asset_id": "42843397145",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 2622,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250BE144F5695B0",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250BE144F5695B0",
+        "gs_sig": "36cf86ca500e7b1bb6be"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828250741381662393",
+      "created_at": "2025-04-04T12:52:44.900773Z",
+      "type": "buy_now",
+      "price": 1673,
+      "state": "listed",
+      "seller": {
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": true,
+        "obfuscated_id": "2921225622275819633",
+        "online": false,
+        "stall_public": false,
+        "statistics": {
+          "median_trade_time": 1141,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 20,
+          "total_trades": 6714,
+          "total_verified_trades": 6694
+        }
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T12:53:35.601303Z"
+      },
+      "item": {
+        "asset_id": "42843167922",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 2976,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250A01768147B20",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250A01768147B20",
+        "gs_sig": "2eab6b5551c0f3ea27a2"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828250447151236117",
+      "created_at": "2025-04-04T12:51:34.750966Z",
+      "type": "buy_now",
+      "price": 1262,
+      "state": "listed",
+      "seller": {
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": true,
+        "obfuscated_id": "2921225622275819633",
+        "online": false,
+        "stall_public": false,
+        "statistics": {
+          "median_trade_time": 1141,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 20,
+          "total_trades": 6714,
+          "total_verified_trades": 6694
+        }
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T12:43:22.79596Z"
+      },
+      "item": {
+        "asset_id": "42838977119",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 5306,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250BA29830A0260",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250BA29830A0260",
+        "gs_sig": "128542e145f638259334"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828248953245011198",
+      "created_at": "2025-04-04T12:45:38.575721Z",
+      "type": "buy_now",
+      "price": 2390,
+      "state": "listed",
+      "seller": {
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": true,
+        "obfuscated_id": "10167167747195467504",
+        "online": true,
+        "stall_public": false,
+        "statistics": {
+          "median_trade_time": 118,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 2,
+          "total_trades": 1419,
+          "total_verified_trades": 1417
+        }
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T12:45:35.051266Z"
+      },
+      "item": {
+        "asset_id": "42850717140",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 1559,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250970CCC0F39A0",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250970CCC0F39A0",
+        "gs_sig": "91cd82cc8c90f8f1d212"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828217006762361405",
+      "created_at": "2025-04-04T10:38:41.940999Z",
+      "type": "buy_now",
+      "price": 2630,
+      "state": "listed",
+      "seller": {
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "obfuscated_id": "10171058617924141375",
+        "online": false,
+        "stall_public": false,
+        "statistics": {
+          "median_trade_time": 62,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 0,
+          "total_trades": 29,
+          "total_verified_trades": 29
+        }
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T10:38:24.024456Z"
+      },
+      "item": {
+        "asset_id": "43024584376",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 713,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250C905B067B080",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250C905B067B080",
+        "gs_sig": "56074ccad9f434dc10f5"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828210381502677509",
+      "created_at": "2025-04-04T10:12:22.355531Z",
+      "type": "buy_now",
+      "price": 1645,
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/2984eff6a98663e46e1c3f3519ee1222e416a8cb_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "online": false,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 401,
+          "total_avoided_trades": 20,
+          "total_failed_trades": 46,
+          "total_trades": 23164,
+          "total_verified_trades": 23118
+        },
+        "steam_id": "76561199691055866",
+        "username": "crishe"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T10:12:51.077407Z"
+      },
+      "item": {
+        "asset_id": "42863922628",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 2597,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561199691055866A42863922628D3201040929083387929",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250A5144B606F30",
+        "gs_sig": "b6606602d77d77f92590"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 2
+    },
+    {
+      "id": "828195256695652419",
+      "created_at": "2025-04-04T09:12:16.320097Z",
+      "type": "buy_now",
+      "price": 1986,
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/d7e53e0d6d91412a903343eb8f5d3bae5a708cc6_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "online": false,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 105,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 74,
+          "total_trades": 8039,
+          "total_verified_trades": 7965
+        },
+        "steam_id": "76561198807900412",
+        "username": "285206075"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T09:11:22.807312Z"
+      },
+      "item": {
+        "asset_id": "42854147073",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 2194,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198807900412A42854147073D2751313766420846813",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A2010708001012509211AD47A160",
+        "gs_sig": "e7eb9c0fc5db6b2387db"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828195102529818166",
+      "created_at": "2025-04-04T09:11:39.564492Z",
+      "type": "buy_now",
+      "price": 1575,
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/d7e53e0d6d91412a903343eb8f5d3bae5a708cc6_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "online": false,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 105,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 74,
+          "total_trades": 8039,
+          "total_verified_trades": 7965
+        },
+        "steam_id": "76561198807900412",
+        "username": "285206075"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T09:11:22.80945Z"
+      },
+      "item": {
+        "asset_id": "42854145743",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 3521,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198807900412A42854145743D11873889879427914773",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250C11BC7E33AF0",
+        "gs_sig": "4824715402d2df9bc8b8"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828195048544931218",
+      "created_at": "2025-04-04T09:11:26.693122Z",
+      "type": "buy_now",
+      "price": 1577,
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/d7e53e0d6d91412a903343eb8f5d3bae5a708cc6_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "online": false,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 105,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 74,
+          "total_trades": 8039,
+          "total_verified_trades": 7965
+        },
+        "steam_id": "76561198807900412",
+        "username": "285206075"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T09:11:22.815609Z"
+      },
+      "item": {
+        "asset_id": "42854146077",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 3157,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198807900412A42854146077D4812242451614308029",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250D518FC6999C0",
+        "gs_sig": "d552e19bfee6a3470d65"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828174525962257358",
+      "created_at": "2025-04-04T07:49:53.728431Z",
+      "type": "buy_now",
+      "price": 1220,
+      "state": "listed",
+      "seller": {
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "obfuscated_id": "12709717244074424370",
+        "online": false,
+        "stall_public": false,
+        "statistics": {
+          "median_trade_time": 2244,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 1,
+          "total_trades": 547,
+          "total_verified_trades": 546
+        }
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T13:42:03.869112Z"
+      },
+      "item": {
+        "asset_id": "42844952489",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 4185,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250D920C5CE0FE0",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250D920C5CE0FE0",
+        "gs_sig": "210ad72d487e042b5a8d"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828173205297562081",
+      "created_at": "2025-04-04T07:44:38.857408Z",
+      "type": "buy_now",
+      "price": 1699,
+      "description": "👑 ROYAL GOLD AK 🟡🟡",
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/2e6f10e47fd081c59de704f3d8723664db7a3218_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "online": true,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 93,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 0,
+          "total_trades": 1046,
+          "total_verified_trades": 1046
+        },
+        "steam_id": "76561199708737907",
+        "username": "Breaker"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T13:39:35.176541Z"
+      },
+      "item": {
+        "asset_id": "42844400161",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 4290,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561199708737907A42844400161D14872024392722323089",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250C2216F0BC120",
+        "gs_sig": "ce49f131dc565820a40d"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 5
+    },
+    {
+      "id": "828173204039270870",
+      "created_at": "2025-04-04T07:44:38.557256Z",
+      "type": "buy_now",
+      "price": 1899,
+      "description": "👑 ROYAL GOLD AK 🟡🟡",
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/2e6f10e47fd081c59de704f3d8723664db7a3218_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "online": true,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 93,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 0,
+          "total_trades": 1046,
+          "total_verified_trades": 1046
+        },
+        "steam_id": "76561199708737907",
+        "username": "Breaker"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T13:39:35.179087Z"
+      },
+      "item": {
+        "asset_id": "42857015744",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 3254,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561199708737907A42857015744D3372250169004662481",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250B6195F2A0820",
+        "gs_sig": "bd6545d85452d932b880"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 5
+    },
+    {
+      "id": "828173202869060046",
+      "created_at": "2025-04-04T07:44:38.278127Z",
+      "type": "buy_now",
+      "price": 1750,
+      "description": "👑 ROYAL RUBY AK 💞🔴",
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/2e6f10e47fd081c59de704f3d8723664db7a3218_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": false,
+        "online": true,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 93,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 0,
+          "total_trades": 1046,
+          "total_verified_trades": 1046
+        },
+        "steam_id": "76561199708737907",
+        "username": "Breaker"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T13:39:35.181842Z"
+      },
+      "item": {
+        "asset_id": "42857015906",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 19938,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561199708737907A42857015906D14469130473060441305",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201080800101250E29B0153C03F9C",
+        "gs_sig": "78d1336f78141bfc925c"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 4
+    },
+    {
+      "id": "828172414121805158",
+      "created_at": "2025-04-04T07:41:30.226215Z",
+      "type": "buy_now",
+      "price": 1390,
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/8df051aa1e3ee396944b59039a2764f6c41bffbf_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": true,
+        "online": false,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 213,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 2,
+          "total_trades": 1547,
+          "total_verified_trades": 1545
+        },
+        "steam_id": "76561199128212001",
+        "username": "Bad News Eagles"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T13:40:11.815621Z"
+      },
+      "item": {
+        "asset_id": "41133657903",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 10640,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561199128212001A41133657903D14413854098435527735",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A2010708001012509053586842C0",
+        "gs_sig": "abacba64d43e187bc357"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828172412729296228",
+      "created_at": "2025-04-04T07:41:29.894099Z",
+      "type": "buy_now",
+      "price": 1390,
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/8df051aa1e3ee396944b59039a2764f6c41bffbf_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": true,
+        "online": false,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 213,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 2,
+          "total_trades": 1547,
+          "total_verified_trades": 1545
+        },
+        "steam_id": "76561199128212001",
+        "username": "Bad News Eagles"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T13:40:11.81795Z"
+      },
+      "item": {
+        "asset_id": "42122184599",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 18715,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561199128212001A42122184599D14145491897500062813",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A2010808001012509B9201A69A7FC6",
+        "gs_sig": "0ccabe76e0800ded0cbf"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828172410258851170",
+      "created_at": "2025-04-04T07:41:29.305878Z",
+      "type": "buy_now",
+      "price": 1390,
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/8df051aa1e3ee396944b59039a2764f6c41bffbf_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": true,
+        "online": false,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 213,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 2,
+          "total_trades": 1547,
+          "total_verified_trades": 1545
+        },
+        "steam_id": "76561199128212001",
+        "username": "Bad News Eagles"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T13:40:11.823261Z"
+      },
+      "item": {
+        "asset_id": "42290735027",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 11966,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561199128212001A42290735027D14044030724380736529",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250BE5D82530010",
+        "gs_sig": "79fb1787b0f533a07eb5"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828172408967005534",
+      "created_at": "2025-04-04T07:41:28.99768Z",
+      "type": "buy_now",
+      "price": 1390,
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/8df051aa1e3ee396944b59039a2764f6c41bffbf_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": true,
+        "online": false,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 213,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 2,
+          "total_trades": 1547,
+          "total_verified_trades": 1545
+        },
+        "steam_id": "76561199128212001",
+        "username": "Bad News Eagles"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T13:40:11.825179Z"
+      },
+      "item": {
+        "asset_id": "42348151855",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 9065,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561199128212001A42348151855D5334566128396041341",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250E946F74A2800",
+        "gs_sig": "59ac53714db734ace8f0"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828172403413747029",
+      "created_at": "2025-04-04T07:41:27.673203Z",
+      "type": "buy_now",
+      "price": 1390,
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/8df051aa1e3ee396944b59039a2764f6c41bffbf_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": true,
+        "online": false,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 213,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 2,
+          "total_trades": 1547,
+          "total_verified_trades": 1545
+        },
+        "steam_id": "76561199128212001",
+        "username": "Bad News Eagles"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T13:40:11.832194Z"
+      },
+      "item": {
+        "asset_id": "42684988743",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 15631,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561199128212001A42684988743D14737578867204584977",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A2010708001012508F7A389972A0",
+        "gs_sig": "9835aab0978d3edccec8"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    },
+    {
+      "id": "828172397071959375",
+      "created_at": "2025-04-04T07:41:26.161078Z",
+      "type": "buy_now",
+      "price": 1390,
+      "state": "listed",
+      "seller": {
+        "avatar": "https://avatars.steamstatic.com/8df051aa1e3ee396944b59039a2764f6c41bffbf_full.jpg",
+        "away": false,
+        "flags": 48,
+        "has_valid_steam_api_key": true,
+        "online": false,
+        "stall_public": true,
+        "statistics": {
+          "median_trade_time": 213,
+          "total_avoided_trades": 0,
+          "total_failed_trades": 2,
+          "total_trades": 1547,
+          "total_verified_trades": 1545
+        },
+        "steam_id": "76561199128212001",
+        "username": "Bad News Eagles"
+      },
+      "reference": {
+        "base_price": 398,
+        "predicted_price": 398,
+        "quantity": 2629,
+        "last_updated": "2025-04-05T13:40:11.849941Z"
+      },
+      "item": {
+        "asset_id": "42552561191",
+        "def_index": 1355,
+        "keychain_index": 18,
+        "keychain_pattern": 10037,
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
+        "rarity": 4,
+        "market_hash_name": "Charm | Die-cast AK",
+        "tradable": 0,
+        "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561199128212001A42552561191D5074126638101461085",
+        "is_commodity": true,
+        "type": "charm",
+        "rarity_name": "Remarkable",
+        "type_name": "Charm",
+        "item_name": "Die-cast AK",
+        "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CB0A28043000A201070800101250B54E7B368160",
+        "gs_sig": "0444cfe9f82cf7c928d0"
+      },
+      "is_seller": false,
+      "is_watchlisted": false,
+      "watchers": 0
+    }
+  ]
+}
