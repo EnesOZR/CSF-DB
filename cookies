@@ -5,7 +5,7 @@
       "cookies": {
         "__stripe_mid": "352a7677-1409-4c03-ad49-3077da119c844c0a63",
         "__stripe_sid": "702b466b-d6b4-4dd7-b3fe-4a11d3aea60b6f8d63",
-        "session": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
+        "session": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGVhbV9pZCI6Ijc2NTYxMTk4ODEwODY2MjUxIiwibm9uY2UiOjAsImltcGVyc29uYXRlZCI6ZmFsc2UsImlzcyI6ImNzdGVjaCIsImV4cCI6MTc0NDIzNTM0Mn0.8ApgArEvETzfjGmxtwzbvCtV_5AZ2rVz5jCJPLIPQt4"
       }
     },
     {
@@ -13,7 +13,7 @@
       "cookies": {
         "__stripe_mid": "13f8375f-5890-4c92-8363-b3b0b47ceb251ecd3e",
         "__stripe_sid": "622246d9-40b2-4aed-9bc8-e2e4f8fd6fbc64cc21",
-        "session": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
+        "session": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGVhbV9pZCI6Ijc2NTYxMTk4ODEwODY2MjUxIiwibm9uY2UiOjAsImltcGVyc29uYXRlZCI6ZmFsc2UsImlzcyI6ImNzdGVjaCIsImV4cCI6MTc0NDI5OTY3MX0.B18dTd4kJc6JFHMHXsaeft78ZBqRHCj897WuiE9QwNo"
       }
     }
   ]
